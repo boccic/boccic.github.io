@@ -5,8 +5,13 @@ body {
   text-algin: center;
 }
 
+h1 {
+   padding: 1cm;
+   margin: 0;
+
 header {
   background color: #d3ffdc;
+  height: 3cm;
 }
 
 img {
