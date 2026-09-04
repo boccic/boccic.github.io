@@ -1,1 +1,15 @@
 
+body {
+  background color: #ffdaf7;
+  color: light blue;
+}
+
+header {
+  background color: #d3ffdc;
+}
+
+img {
+     display: block;
+     margin: 25px auto;
+     border-radius: 25px;
+}
